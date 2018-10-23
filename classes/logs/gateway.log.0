@@ -1,0 +1,254 @@
+Oct 23, 2018 10:39:12
+INFO: Found and loaded gateway.conf from C:\Projects\Ignite\Rdp\classes\gateway.conf
+Oct 23, 2018 10:39:12
+INFO: {recwarning=true;, html=./html/, converter=/usr/bin/gs, logfile=./logs/gateway.log, license=/usr/local/bin/SparkGateway/license, arguments=-dBATCH -dNOPAUSE -dUseCIEColor -dPDFSETTINGS=/printer -sDEVICE=pdfwrite -q -sOutputFile=%1 %2}
+Oct 23, 2018 10:39:12
+INFO: Gateway, Version: 5.6.0
+Oct 23, 2018 10:39:12
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\users.json exists:false
+Oct 23, 2018 10:39:12
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\servers.json exists:false
+Oct 23, 2018 10:39:12
+INFO: {"type":"NORMALLIST","display":true,"connections":[]}
+Oct 23, 2018 10:39:12
+INFO: {}
+Oct 23, 2018 10:39:12
+INFO: Root dir:C:\Projects\Ignite\Rdp\classes\html
+Oct 23, 2018 10:39:12
+INFO: Build date:Sat Mar 31 00:00:01 BST 2018 Java version:1.8.0_144 java.vendor:Oracle Corporation os.name:Windows 10 os.version:10.0
+Oct 23, 2018 10:39:12
+INFO: init...
+Oct 23, 2018 10:39:12
+WARNING: License fie not found. Using Evaluation License.
+Oct 23, 2018 10:39:12
+INFO: Ready to start.
+Oct 23, 2018 10:39:12
+INFO: Build info:
+#Mon, 08 Oct 2018 15:06:53 -0600
+#Build Number for ANT. Do not edit!
+#Mon Oct 08 15:06:53 MDT 2018
+build.time=2018_10_08_03
+build.number=891
+
+Oct 23, 2018 10:39:12
+INFO: 
+
+Listening on  port: 80 Start page: http://DESKTOP-545PC5B
+
+Oct 23, 2018 11:04:41
+INFO: Found and loaded gateway.conf from C:\Projects\Ignite\Rdp\classes\gateway.conf
+Oct 23, 2018 11:04:41
+INFO: {recwarning=true;, html=./html/, converter=/usr/bin/gs, logfile=./logs/gateway.log, license=/usr/local/bin/SparkGateway/license, arguments=-dBATCH -dNOPAUSE -dUseCIEColor -dPDFSETTINGS=/printer -sDEVICE=pdfwrite -q -sOutputFile=%1 %2}
+Oct 23, 2018 11:04:41
+INFO: Gateway, Version: 5.6.0
+Oct 23, 2018 11:04:41
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\users.json exists:false
+Oct 23, 2018 11:04:41
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\servers.json exists:false
+Oct 23, 2018 11:04:41
+INFO: {"type":"NORMALLIST","display":true,"connections":[]}
+Oct 23, 2018 11:04:41
+INFO: {}
+Oct 23, 2018 11:04:41
+INFO: Root dir:C:\Projects\Ignite\Rdp\classes\html
+Oct 23, 2018 11:04:41
+INFO: Build date:Sat Mar 31 00:00:01 BST 2018 Java version:1.8.0_144 java.vendor:Oracle Corporation os.name:Windows 10 os.version:10.0
+Oct 23, 2018 11:04:41
+INFO: init...
+Oct 23, 2018 11:04:41
+WARNING: License fie not found. Using Evaluation License.
+Oct 23, 2018 11:04:41
+INFO: Ready to start.
+Oct 23, 2018 11:04:41
+INFO: Build info:
+#Mon, 08 Oct 2018 15:06:53 -0600
+#Build Number for ANT. Do not edit!
+#Mon Oct 08 15:06:53 MDT 2018
+build.time=2018_10_08_03
+build.number=891
+
+Oct 23, 2018 11:04:41
+INFO: 
+
+Listening on  port: 80 Start page: http://DESKTOP-545PC5B
+
+Oct 23, 2018 11:05:19
+WARNING: Client from 10.0.75.1 access invliad file:C:\Projects\Ignite\Rdp\classes\html\rdp
+Oct 23, 2018 11:05:20
+WARNING: Client from 10.0.75.1 access invliad file:C:\Projects\Ignite\Rdp\classes\html\favicon.ico
+Oct 23, 2018 11:05:51
+INFO: Read timed out
+
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at com.toremote.http.SocketByteBuffer.readLine(SourceFile:33)
+	at com.toremote.http.RequestHeader.readFromStream(SourceFile:162)
+	at com.toremote.bh.run(SourceFile:129)
+Oct 23, 2018 11:05:51
+WARNING: Client from 10.0.75.1 was closed because of no header
+Oct 23, 2018 16:42:54
+INFO: Found and loaded gateway.conf from C:\Projects\Ignite\Rdp\classes\gateway.conf
+Oct 23, 2018 16:42:54
+INFO: {recwarning=true;, html=./html/, converter=/usr/bin/gs, logfile=./logs/gateway.log, license=/usr/local/bin/SparkGateway/license, arguments=-dBATCH -dNOPAUSE -dUseCIEColor -dPDFSETTINGS=/printer -sDEVICE=pdfwrite -q -sOutputFile=%1 %2}
+Oct 23, 2018 16:42:54
+INFO: Gateway, Version: 5.6.0
+Oct 23, 2018 16:42:54
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\users.json exists:false
+Oct 23, 2018 16:42:54
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\servers.json exists:false
+Oct 23, 2018 16:42:54
+INFO: {"type":"NORMALLIST","display":true,"connections":[]}
+Oct 23, 2018 16:42:54
+INFO: {}
+Oct 23, 2018 16:42:54
+INFO: Root dir:C:\Projects\Ignite\Rdp\classes\html
+Oct 23, 2018 16:42:54
+INFO: Build date:Sat Mar 31 00:00:01 BST 2018 Java version:1.8.0_144 java.vendor:Oracle Corporation os.name:Windows 10 os.version:10.0
+Oct 23, 2018 16:42:54
+INFO: init...
+Oct 23, 2018 16:42:54
+WARNING: License fie not found. Using Evaluation License.
+Oct 23, 2018 16:42:54
+INFO: Ready to start.
+Oct 23, 2018 16:42:54
+INFO: Build info:
+#Mon, 08 Oct 2018 15:06:53 -0600
+#Build Number for ANT. Do not edit!
+#Mon Oct 08 15:06:53 MDT 2018
+build.time=2018_10_08_03
+build.number=891
+
+Oct 23, 2018 16:42:54
+INFO: 
+
+Listening on  port: 80 Start page: http://DESKTOP-545PC5B
+
+Oct 23, 2018 16:43:40
+INFO: added client:9e1d43ce-1d56-4972-ae81-43092e9af21a total:1
+Oct 23, 2018 16:43:40
+INFO: server:192.168.1.253 selectedProtocol=0 restrictedAdminMode:true authMode:false
+Oct 23, 2018 16:43:53
+INFO: User: Administrator domain: BTG199251 in session: 9e1d43ce-1d56-4972-ae81-43092e9af21a logged into RDP session: 2
+Oct 23, 2018 16:43:53
+INFO: User: Administrator domain: BTG199251 in session: 9e1d43ce-1d56-4972-ae81-43092e9af21a logged into RDP session: 2
+Oct 23, 2018 16:44:10
+INFO: RDP runner closed:9e1d43ce-1d56-4972-ae81-43092e9af21a
+Oct 23, 2018 16:44:10
+INFO: removed client:9e1d43ce-1d56-4972-ae81-43092e9af21a total:0
+Oct 23, 2018 16:44:10
+WARNING: End of stream, id:9e1d43ce-1d56-4972-ae81-43092e9af21a
+Oct 23, 2018 18:46:48
+INFO: Found and loaded gateway.conf from C:\Projects\Ignite\Rdp\classes\gateway.conf
+Oct 23, 2018 18:46:48
+INFO: {recwarning=true;, html=./html/, converter=/usr/bin/gs, logfile=./logs/gateway.log, license=/usr/local/bin/SparkGateway/license, arguments=-dBATCH -dNOPAUSE -dUseCIEColor -dPDFSETTINGS=/printer -sDEVICE=pdfwrite -q -sOutputFile=%1 %2}
+Oct 23, 2018 18:46:48
+INFO: Gateway, Version: 5.6.0
+Oct 23, 2018 18:46:48
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\users.json exists:false
+Oct 23, 2018 18:46:48
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\servers.json exists:false
+Oct 23, 2018 18:46:48
+INFO: {"type":"NORMALLIST","display":true,"connections":[]}
+Oct 23, 2018 18:46:48
+INFO: {}
+Oct 23, 2018 18:46:48
+INFO: Root dir:C:\Projects\Ignite\Rdp\classes\html
+Oct 23, 2018 18:46:48
+INFO: Build date:Sat Mar 31 00:00:01 BST 2018 Java version:1.8.0_144 java.vendor:Oracle Corporation os.name:Windows 10 os.version:10.0
+Oct 23, 2018 18:46:48
+INFO: init...
+Oct 23, 2018 18:46:48
+WARNING: License fie not found. Using Evaluation License.
+Oct 23, 2018 18:46:48
+INFO: Ready to start.
+Oct 23, 2018 18:46:48
+INFO: Build info:
+#Mon, 08 Oct 2018 15:06:53 -0600
+#Build Number for ANT. Do not edit!
+#Mon Oct 08 15:06:53 MDT 2018
+build.time=2018_10_08_03
+build.number=891
+
+Oct 23, 2018 18:46:48
+INFO: 
+
+Listening on  port: 80 Start page: http://DESKTOP-545PC5B
+
+Oct 23, 2018 18:47:09
+INFO: Found and loaded gateway.conf from C:\Projects\Ignite\Rdp\classes\gateway.conf
+Oct 23, 2018 18:47:09
+INFO: {recwarning=true;, html=./html/, converter=/usr/bin/gs, logfile=./logs/gateway.log, license=/usr/local/bin/SparkGateway/license, arguments=-dBATCH -dNOPAUSE -dUseCIEColor -dPDFSETTINGS=/printer -sDEVICE=pdfwrite -q -sOutputFile=%1 %2}
+Oct 23, 2018 18:47:09
+INFO: Gateway, Version: 5.6.0
+Oct 23, 2018 18:47:09
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\users.json exists:false
+Oct 23, 2018 18:47:09
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\servers.json exists:false
+Oct 23, 2018 18:47:09
+INFO: {"type":"NORMALLIST","display":true,"connections":[]}
+Oct 23, 2018 18:47:09
+INFO: {}
+Oct 23, 2018 18:47:09
+INFO: Root dir:C:\Projects\Ignite\Rdp\classes\html
+Oct 23, 2018 18:47:09
+INFO: Build date:Sat Mar 31 00:00:01 BST 2018 Java version:1.8.0_144 java.vendor:Oracle Corporation os.name:Windows 10 os.version:10.0
+Oct 23, 2018 18:47:09
+INFO: init...
+Oct 23, 2018 18:47:09
+WARNING: License fie not found. Using Evaluation License.
+Oct 23, 2018 18:47:09
+INFO: Ready to start.
+Oct 23, 2018 18:47:09
+INFO: Build info:
+#Mon, 08 Oct 2018 15:06:53 -0600
+#Build Number for ANT. Do not edit!
+#Mon Oct 08 15:06:53 MDT 2018
+build.time=2018_10_08_03
+build.number=891
+
+Oct 23, 2018 18:47:09
+INFO: 
+
+Listening on  port: 80 Start page: http://DESKTOP-545PC5B
+
+Oct 23, 2018 18:49:02
+INFO: Found and loaded gateway.conf from C:\Projects\Ignite\Rdp\classes\gateway.conf
+Oct 23, 2018 18:49:02
+INFO: {recwarning=true;, html=./html/, converter=/usr/bin/gs, logfile=./logs/gateway.log, license=/usr/local/bin/SparkGateway/license, arguments=-dBATCH -dNOPAUSE -dUseCIEColor -dPDFSETTINGS=/printer -sDEVICE=pdfwrite -q -sOutputFile=%1 %2}
+Oct 23, 2018 18:49:02
+INFO: Gateway, Version: 5.6.0
+Oct 23, 2018 18:49:02
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\users.json exists:false
+Oct 23, 2018 18:49:02
+INFO: ***C:\Projects\Ignite\Rdp\classes\data\servers.json exists:false
+Oct 23, 2018 18:49:02
+INFO: {"type":"NORMALLIST","display":true,"connections":[]}
+Oct 23, 2018 18:49:02
+INFO: {}
+Oct 23, 2018 18:49:02
+INFO: Root dir:C:\Projects\Ignite\Rdp\classes\html
+Oct 23, 2018 18:49:02
+INFO: Build date:Sat Mar 31 00:00:01 BST 2018 Java version:1.8.0_144 java.vendor:Oracle Corporation os.name:Windows 10 os.version:10.0
+Oct 23, 2018 18:49:02
+INFO: init...
+Oct 23, 2018 18:49:02
+WARNING: License fie not found. Using Evaluation License.
+Oct 23, 2018 18:49:02
+INFO: Ready to start.
+Oct 23, 2018 18:49:02
+INFO: Build info:
+#Mon, 08 Oct 2018 15:06:53 -0600
+#Build Number for ANT. Do not edit!
+#Mon Oct 08 15:06:53 MDT 2018
+build.time=2018_10_08_03
+build.number=891
+
+Oct 23, 2018 18:49:02
+INFO: 
+
+Listening on  port: 80 Start page: http://DESKTOP-545PC5B
+

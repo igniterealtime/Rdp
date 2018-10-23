@@ -1,0 +1,5 @@
+.idea/
+target/
+*.cmd
+classes/linux-64/*.war
+classes/win-64/*.war
